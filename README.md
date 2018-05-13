@@ -1,1 +1,1 @@
-# Dialogue Box Android
+# Dialog Box Android
